@@ -31,6 +31,9 @@ export default defineConfig({
           { text: '运行时', link: '/links/runtime' },
           { text: '包管理器', link: '/links/package-manager' },
           { text: '打包器', link: '/links/bundler' },
+          { text: '编译器', link: '/links/compiler' },
+          { text: 'Lint', link: '/links/lint' },
+          { text: '格式化', link: '/links/format' },
           { text: '测试运行器', link: '/links/test' },
           { text: 'API', link: '/links/api' }
         ]
@@ -73,6 +76,9 @@ export default defineConfig({
             { text: '运行时', link: '/links/runtime' },
             { text: '包管理器', link: '/links/package-manager' },
             { text: '打包器', link: '/links/bundler' },
+            { text: '编译器', link: '/links/compiler' },
+            { text: 'Lint', link: '/links/lint' },
+            { text: '格式化', link: '/links/format' },
             { text: '测试运行器', link: '/links/test' },
             { text: '包运行器', link: '/links/bunx' },
             { text: 'API', link: '/links/api' }

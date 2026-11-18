@@ -8,6 +8,8 @@ Bun 内置了兼容 Node.js 的包管理器，速度远超 npm、yarn 和 pnpm�
 - [`bun add`](https://bun.com/docs/pm/cli/add) — 添加依赖
 - [`bun remove`](https://bun.com/docs/pm/cli/remove) — 移除依赖
 - [`bun update`](https://bun.com/docs/pm/cli/update) — 更新依赖
+- [`bun dedupe`](https://bun.com/docs/pm/cli/dedupe) — 去除锁文件中重复的包版本
+- [`bun prune`](https://bun.com/docs/pm/cli/prune) — 从 node_modules 中删除锁文件之外的包
 - [`bun link`](https://bun.com/docs/pm/cli/link) — 链接本地包
 - [`bun pm`](https://bun.com/docs/pm/cli/pm) — 包管理工具
 - [`bun outdated`](https://bun.com/docs/pm/cli/outdated) — 检查过时的依赖
@@ -29,5 +31,6 @@ Bun 内置了兼容 Node.js 的包管理器，速度远超 npm、yarn 和 pnpm�
 - [锁文件](https://bun.com/docs/pm/lockfile) — 锁文件格式
 - [作用域与注册表](https://bun.com/docs/pm/scopes-registries) — 作用域和注册表配置
 - [覆盖与解析](https://bun.com/docs/pm/overrides) — 依赖覆盖
+- [包扩展（packageExtensions）](https://bun.com/docs/pm/package-extensions) — 为第三方包补充缺失的依赖
 - [安全扫描器 API](https://bun.com/docs/pm/security-scanner-api) — 安全扫描器
 - [`.npmrc`](https://bun.com/docs/pm/npmrc) — .npmrc 配置支持

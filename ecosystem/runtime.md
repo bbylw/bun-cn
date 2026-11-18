@@ -9,6 +9,7 @@
 - [导入 TOML 文件](https://bun.com/guides/runtime/import-toml)
 - [导入 YAML 文件](https://bun.com/guides/runtime/import-yaml)
 - [导入 JSON5 文件](https://bun.com/guides/runtime/import-json5)
+- [导入 XML 文件](https://bun.com/guides/runtime/import-xml)
 - [将 HTML 文件作为文本导入](https://bun.com/guides/runtime/import-html)
 - [删除目录](https://bun.com/guides/runtime/delete-directory)
 

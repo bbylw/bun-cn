@@ -9,6 +9,8 @@ Bun 提供了丰富的内置 API，涵盖 HTTP 服务器、数据库、文件 I/
 - [HTTP 错误处理](https://bun.com/docs/runtime/http/error-handling)
 - [HTTP 指标](https://bun.com/docs/runtime/http/metrics)
 - [WebSockets](https://bun.com/docs/runtime/http/websockets)
+- [HTTP Cookies](https://bun.com/docs/runtime/http/cookies) — 请求与响应中的 Cookie
+- [TLS](https://bun.com/docs/runtime/http/tls) — 在 `Bun.serve` 中启用 TLS
 
 ## 并发与进程
 
@@ -59,6 +61,7 @@ Bun 提供了丰富的内置 API，涵盖 HTTP 服务器、数据库、文件 I/
 - [TOML（`Bun.TOML`）](https://bun.com/docs/runtime/toml) — TOML 解析
 - [JSON5](https://bun.com/docs/runtime/json5) — JSON5 解析
 - [JSONL](https://bun.com/docs/runtime/jsonl) — JSONL 解析
+- [XML（`Bun.XML`）](https://bun.com/docs/runtime/xml) — XML 解析与序列化
 - [Markdown](https://bun.com/docs/runtime/markdown) — Markdown 解析
 - [图像处理](https://bun.com/docs/runtime/image) — 图像处理 API
 - [工具函数](https://bun.com/docs/runtime/utils) — 实用工具函数

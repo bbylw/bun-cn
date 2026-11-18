@@ -29,6 +29,9 @@ Bun 运行时是一个快速的 JavaScript 运行时，旨在作为 Node.js 的�
 - [模块解析](https://bun.com/docs/runtime/module-resolution) — 模块解析规则
 - [自动安装](https://bun.com/docs/runtime/auto-install) — 自动安装依赖
 - [bunfig.toml](https://bun.com/docs/runtime/bunfig) — 配置文件
+- [`bun check`](https://bun.com/docs/runtime/check) — TypeScript 类型检查
+- [模块图（`Bun.ModuleGraph`）](https://bun.com/docs/runtime/module-graph) — 在单个进程中运行同一应用的多个实例（实验性）
+- [禁止从字符串生成代码](https://bun.com/docs/runtime/code-generation-from-strings) — `--disallow-code-generation-from-strings`
 - [调试器](https://bun.com/docs/runtime/debugger) — 调试支持
 - [REPL](https://bun.com/docs/runtime/repl) — 交互式 REPL
 - [$ Shell](https://bun.com/docs/runtime/shell) — 内置 Shell

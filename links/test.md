@@ -16,3 +16,4 @@ Bun 内置了类 Jest 的测试运行器 `bun test`，速度极快，支持 Type
 - [发现](https://bun.com/docs/test/discovery) — 测试文件发现
 - [报告器](https://bun.com/docs/test/reporters) — 测试结果报告器
 - [运行时行为](https://bun.com/docs/test/runtime-behavior) — 运行时行为说明
+- [并行与隔离测试](https://bun.com/docs/test/parallel) — 并行、隔离、分片与耗时统计

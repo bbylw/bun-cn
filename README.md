@@ -47,7 +47,7 @@ Bun 支持 Linux（x64 和 arm64）、macOS（x64 和 Apple Silicon）以及 Win
 
 > **Linux 用户** —— 强烈建议内核版本为 5.6 或更高，最低要求为 5.1。
 
-> **x64 用户** —— 如果你看到 "illegal instruction"（非法指令）或类似错误，请查看我们的 [CPU 要求](https://bun.com/docs/installation#cpu-requirements-and-baseline-builds)
+> **x64 用户** —— 如果你看到 "illegal instruction"（非法指令）或类似错误，请查看我们的 [CPU 要求](https://bun.com/docs/installation#cpu-requirements)
 
 ```sh
 # 使用安装脚本（推荐）
@@ -146,14 +146,16 @@ bun upgrade --canary
   - [插件](https://bun.com/docs/bundler/plugins)
   - [宏](https://bun.com/docs/bundler/macros)
   - [对比 esbuild](https://bun.com/docs/bundler/esbuild)
-  - [单文件可执行程序](https://bun.com/docs/bundler/executables)
   - [CSS](https://bun.com/docs/bundler/css)
   - [HTML 与静态站点](https://bun.com/docs/bundler/html-static)
   - [模块热替换（HMR）](https://bun.com/docs/bundler/hot-reloading)
   - [使用 HTML 导入的全栈开发](https://bun.com/docs/bundler/fullstack)
   - [独立 HTML](https://bun.com/docs/bundler/standalone-html)
-  - [字节码缓存](https://bun.com/docs/bundler/bytecode)
   - [压缩器](https://bun.com/docs/bundler/minifier)
+
+- 编译器
+  - [单文件可执行程序](https://bun.com/docs/compiler/executables)
+  - [字节码缓存](https://bun.com/docs/compiler/bytecode)
 
 - 测试运行器
   - [`bun test`](https://bun.com/docs/test/index)

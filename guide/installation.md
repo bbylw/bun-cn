@@ -4,7 +4,7 @@ Bun 支持 **Linux**（x64 和 arm64）、**macOS**（x64 和 Apple Silicon）�
 
 ::: warning 系统要求
 - **Linux 用户** —— 强烈建议内核版本为 5.6 或更高，最低要求为 5.1。
-- **x64 用户** —— 如果你看到 "illegal instruction"（非法指令）或类似错误，请查看 [CPU 要求](https://bun.com/docs/installation#cpu-requirements-and-baseline-builds)
+- **x64 用户** —— 如果你看到 "illegal instruction"（非法指令）或类似错误，请查看 [CPU 要求](https://bun.com/docs/installation#cpu-requirements)
 :::
 
 ## 使用安装脚本（推荐）
